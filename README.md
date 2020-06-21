@@ -2,7 +2,7 @@
 
 ![](images/app_icon.png)
 ![](images/meals_table_view.png)
-![](images/meal_details.png)
+![](images/meals_detail.png)
 
 ## Description
 This is an iOS app to track how foods impact my digestive health.
