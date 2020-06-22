@@ -6,6 +6,7 @@
 
 ## Description
 This is an iOS app to track how foods impact my digestive health.
+See this short video for more details: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=8311012b-5a2f-4896-9476-abb601298c6a
 
 ## Stack
 This app was created in Swift utilizing XCode.
